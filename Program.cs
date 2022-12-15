@@ -6,7 +6,7 @@ void NaturalNamber(int N)
     if(N < 1) return;
     Console.Write($"{N} ");
     N--;
-    DescentNums(N);
+   NaturalNamber(N);
 }
 
 int N = 15;

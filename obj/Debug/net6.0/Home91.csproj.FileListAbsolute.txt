@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Home91\bin\Debug\net6.0\Home91.exe
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Home91\bin\Debug\net6.0\Home91.deps.json
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Home91\bin\Debug\net6.0\Home91.runtimeconfig.json
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Home91\bin\Debug\net6.0\Home91.dll
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Home91\bin\Debug\net6.0\Home91.pdb
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Home91\obj\Debug\net6.0\Home91.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Home91\obj\Debug\net6.0\Home91.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Home91\obj\Debug\net6.0\Home91.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Home91\obj\Debug\net6.0\Home91.AssemblyInfo.cs
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Home91\obj\Debug\net6.0\Home91.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Home91\obj\Debug\net6.0\Home91.dll
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Home91\obj\Debug\net6.0\refint\Home91.dll
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Home91\obj\Debug\net6.0\Home91.pdb
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Home91\obj\Debug\net6.0\Home91.genruntimeconfig.cache
+C:\Users\user\Desktop\резюме\Учеба Аналитика\#C\Home91\obj\Debug\net6.0\ref\Home91.dll
